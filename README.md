@@ -13,11 +13,11 @@
 
 ### 👨‍💻 About Me
 
-I'm a first-year **Computer Science student** at the **University of Manchester** with a deep passion for Machine Learning, AI, and robust Software Engineering. I enjoy leveraging my strong foundation in mathematics—including Linear Algebra, Probability, and Calculus—to build intelligent and efficient systems from the ground up.
+I'm a first-year **Computer Science student** at the **University of Manchester** with a deep passion for Machine Learning, AI, and Software Engineering. 
 
 -   🎓 Studying BSc Computer Science at the **University of Manchester** (2025 - 2029).
 -   🌱 Currently diving deeper into **Natural Language Processing** and **full-stack development**.
--   🤖 Active participant in the AI and Robotics societies, contributing to projects and events.
+-   🤖 Active participant in the AI and Robotics societies.
 -   📫 You can reach me at: **alkhliefattameem@gmail.com**
 
 ---
