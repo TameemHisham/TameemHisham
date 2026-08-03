@@ -13,7 +13,7 @@
 
 ### 👨‍💻 About Me
 
-I'm a first-year **Computer Science student** at the **University of Manchester** with a deep passion for Machine Learning, AI, and Software Engineering.
+I'm a second-year **Computer Science student** at the **University of Manchester** with a deep passion for Machine Learning, AI, and Software Engineering.
 
 - 🎓 Studying BSc Computer Science at the **University of Manchester** (2025 - 2029)
 - 🔬 Working on a summer research project on **RAG architecture** for university library systems
