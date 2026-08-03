@@ -57,6 +57,12 @@ I'm a second-year **Computer Science student** at the **University of Manchester
 
 ---
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TameemHisham&theme=tokyonight" alt="GitHub Streak" />
+</p>
+
+---
+
 ### 🔗 Connect with Me
 
 <p>
