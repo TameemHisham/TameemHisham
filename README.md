@@ -2,12 +2,12 @@
 
 <p align="center">
   <a href="https://github.com/TameemHisham">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+%26+Cloud+Engineer+in+the+making;Spring+Boot+%E2%80%A2+Kafka+%E2%80%A2+Redis+%E2%80%A2+AWS;Multilingual+RAG+Research+%40+SCAI;Road+to+Cloud+Security+%F0%9F%94%90" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Backend+%26+Cloud+Engineer+in+the+making;Spring+Boot+%E2%80%A2+Kafka+%E2%80%A2+Redis+%E2%80%A2+AWS;Multilingual+RAG+Research;Road+to+Cloud+Security+%F0%9F%94%90" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  🎓 BSc Computer Science @ <b>The University of Manchester</b> (Year 2) &nbsp;•&nbsp; 🔬 Research Assistant @ <b>SCAI, Sorbonne University Abu Dhabi</b>
+  🎓 BSc Computer Science @ <b>The University of Manchester</b> (Year 2)
 </p>
 
 <p align="center">
@@ -31,37 +31,18 @@ I build **backend systems that hold up under real traffic** — event-driven pip
 
 ---
 
-## 🚀 Featured Work
+## 🔐 Road to Cloud Security
 
-### 💸 [PriceWatch](https://github.com/TameemHisham/pricewatch)
-> Cross-store price tracker monitoring **5 major retailers**, built around an event-driven scraping pipeline.
+> Infra first, security second. You can't secure what you don't know how to build.
 
-- **Backend:** Spring Boot 4.1 · Java 21 · PostgreSQL · Jsoup
-- **Infra:** Kafka event pipeline · Redis caching · AWS (ECS, RDS, S3)
-- **Frontend:** React 19 · TypeScript
-- **Status:** 🟢 Active — cross-marketplace support in progress
-
-### 📚 Multilingual Library RAG — *SCAI Research*
-> Research into RAG architectures for a multilingual (Arabic / French / English) university library catalogue.
-
-- **~70%** of catalogue records linked to Wikidata entities for dataset enrichment
-- Comparative evaluation of RAG architectures across languages
-- Shipped a **[live Q&A demo for librarians](https://library-llm.vercel.app)** — language-routed models, typo tolerance, source citations
-
-### 💬 UOMConnect
-> WhatsApp-style real-time messaging app.
-
-- FastAPI · React · WebSockets · JWT auth · MySQL
-
-### 📦 Orders API
-> RESTful orders service in Go.
-
-- Go · Chi · PostgreSQL
-
-### 🖼️ Doc Intelligence — *in design*
-> Ask natural-language questions about your photos and documents ("that warranty I photographed last spring"). Auto-classifies images, extracts metadata, answers via RAG — without storing your photos.
-
-- Computer vision · RAG · GCP · Google Photos API
+| Stage | Focus | Status |
+|---|---|---|
+| **1. Backend foundations** | Java · Spring Boot · REST APIs · PostgreSQL | ✅ Done |
+| **2. Distributed systems** | Kafka event pipelines · Redis caching · Docker | ✅ Done |
+| **3. Cloud deployment** | AWS (ECS, RDS, S3) in production | 🟡 In progress |
+| **4. Multi-cloud** | GCP · managed AI/vision services | ⏳ Next |
+| **5. Platform & DevOps** | CI/CD · Infrastructure as Code · observability | ⏳ Planned |
+| **6. Cloud security** | IAM · network security · threat detection | 🎯 Goal |
 
 ---
 
