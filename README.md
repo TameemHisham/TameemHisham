@@ -13,7 +13,6 @@
 <p align="center">
   <a href="https://linkedin.com/in/tameem-alkhliefat-50932a299"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:alkhliefattameem@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://library-llm.vercel.app"><img alt="Live Demo" src="https://img.shields.io/badge/Live_Demo-Library_LLM-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
 ---
@@ -28,21 +27,6 @@ I build **backend systems that hold up under real traffic** — event-driven pip
 | 🔬 **Researching** | Multilingual (AR/FR/EN) RAG for academic library search |
 | 📐 **Designing** | **Doc Intelligence** — CV + RAG Q&A over your photos, on GCP |
 | 🎯 **Looking for** | 2027 software / cloud / platform internships & placements |
-
----
-
-## 🔐 Road to Cloud Security
-
-> Infra first, security second. You can't secure what you don't know how to build.
-
-| Stage | Focus | Status |
-|---|---|---|
-| **1. Backend foundations** | Java · Spring Boot · REST APIs · PostgreSQL | ✅ Done |
-| **2. Distributed systems** | Kafka event pipelines · Redis caching · Docker | ✅ Done |
-| **3. Cloud deployment** | AWS (ECS, RDS, S3) in production | 🟡 In progress |
-| **4. Multi-cloud** | GCP · managed AI/vision services | ⏳ Next |
-| **5. Platform & DevOps** | CI/CD · Infrastructure as Code · observability | ⏳ Planned |
-| **6. Cloud security** | IAM · network security · threat detection | 🎯 Goal |
 
 ---
 
